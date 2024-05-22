@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8448/bin/franklin.delivery/vishalbhatla/edge-aem/main"
+    url: "https://localhost:8448/"
     type: "markup"
     suffix: ".html"
